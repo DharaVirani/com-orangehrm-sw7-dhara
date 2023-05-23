@@ -1,0 +1,6 @@
+com\orangehrm\live\runner\SanityTestRunner.class
+com\orangehrm\live\runner\SmokeTestRunner.class
+com\orangehrm\live\steps\UsersTestSteps.class
+com\orangehrm\live\Hooks.class
+com\orangehrm\live\steps\LoginTestSteps.class
+com\orangehrm\live\runner\RegressionTestRunner.class
